@@ -1,6 +1,0 @@
-{
-    "docker.environment": {
-        "DEVELOPMENT": "True",
-        "SECRET_KEY": "mtu-)vn9)wv$m^av6jbthe=9el_h#h7)7-w&v7o*dzx0y3$zsz"
-    }
-}
